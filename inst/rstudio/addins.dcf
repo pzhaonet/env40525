@@ -1,0 +1,19 @@
+Name: shutian
+Description: Meta-Analysis
+Binding: shutian()
+Interactive: true
+
+Name: shufan
+Description: Traffic Data Analysis
+Binding: shufan()
+Interactive: true
+
+Name: houqing
+Description: Wind
+Binding: houqing()
+Interactive: true
+
+Name: quanzhi
+Description: Wind rose
+Binding: quanzhi()
+Interactive: true
