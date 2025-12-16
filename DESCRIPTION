@@ -1,7 +1,7 @@
-Package: env405
+Package: env40525
 Type: Package
-Title: Collection of R Functions and Apps Developed by ENV405 Students
-Version: 0.25.0
+Title: Collection of R Functions and Apps Developed by ENV405 Students in 2025
+Version: 0.25.1
 Authors@R: c(
     person(
     "Peng", "Zhao",
@@ -25,7 +25,7 @@ Authors@R: c(
     role = "aut"
     )
   )
-Description: ENV405 is a course of the Mater program Environmental Science in the Xi'an Jiaotong-Liverpool University. In this course, students develop R functions and Shiny Apps, which are collected in this package.
+Description: ENV405 is a course of the Mater program Environmental Science in the Xi'an Jiaotong-Liverpool University. Students developed R functions and Shiny Apps in this course in 2025, which are collected in this package.
 Imports: 
   dplyr,
   DT,
