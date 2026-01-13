@@ -1,19 +1,19 @@
-Name: shutian
-Description: Meta-Analysis
+Name: Meta-Analysis
+Description: Developed by Shutian WangMeta-Analysis
 Binding: shutian()
 Interactive: true
 
-Name: shufan
-Description: Traffic Data Analysis
+Name: Traffic Data Analysis
+Description: Developed by Shufan Ma
 Binding: shufan()
 Interactive: true
 
-Name: houqing
-Description: Wind
+Name: Wind Data Analysis
+Description: Developed by Houqing Ye
 Binding: houqing()
 Interactive: true
 
-Name: quanzhi
-Description: Wind rose
+Name: Wind Rose
+Description: Developed by Quanzhi Wu
 Binding: quanzhi()
 Interactive: true
